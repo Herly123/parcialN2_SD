@@ -224,9 +224,9 @@ minikube service middleware-service
 
 📌 8. Autores y Roles del Equipo
 Integrante	Rol	Responsabilidades
-Herly123	Backend & DevSecOps	Citus, FastAPI, Docker, JWT, Kubernetes
-Frontend & UX	Interfaces HTML, Jinja2, flujo por roles, PDF
-Jose David VIllegas Pacheco, Herly Machado Parra
+Herly Machado Parra: Backend & DevSecOps	Citus, FastAPI, Docker, JWT, Kubernetes
+Jose David VIllegas Pacheco: Frontend & UX	Interfaces HTML, Jinja2, flujo por roles, PDF
+
 
 Ambos participaron en:
 
@@ -235,3 +235,4 @@ Arquitectura
 Pruebas funcionales
 
 Documentación
+
